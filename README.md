@@ -1,4 +1,4 @@
-<div style="background-color: white; padding: 20px; border-radius: 10px;">
+
   <h1 align="center">Hi 👋, I'm David</h1>
   <h3 align="center">A Software Engineer studying at Boston University</h3>
   
@@ -27,4 +27,4 @@
 <p style="text-align: center;">
   <img align="center" src="https://stats.quine.sh/Amyat103/github?theme=dark" alt="amyat103" />
 </p>
-</div>
+
