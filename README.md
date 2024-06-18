@@ -2,9 +2,9 @@
   <h1 align="center">Hi 👋, I'm David</h1>
   <h3 align="center">A Software Engineer studying at Boston University</h3>
   
-  - 🔭 I’m currently working on [Restaurant Review Website](link here)
+  - 🔭 I’m currently working on **Restaurant Review Website**(link here)
   
-  - 🌱 I’m currently learning **Fullstack development outside of University**
+  - 🌱 I’m currently learning **Fullstack development focusing on backend**
   
   - 📫 How to reach me **amyat@bu.edu**
   
