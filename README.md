@@ -2,13 +2,15 @@
   <h1 align="center">Hi 👋, I'm David</h1>
   <h3 align="center">A Software Engineer studying at Boston University</h3>
   
-  - 🔭 I’m currently working on **Restaurant Review Website**
+  - 🔭 I’m currently working on [Restaurant Review Website](link here)
   
   - 🌱 I’m currently learning **Fullstack development outside of University**
   
   - 📫 How to reach me **amyat@bu.edu**
   
   - 📄 Know about my experiences [resume link!!! ADD](resume link!!! ADD)
+
+  - ⚡ Fun fact **I speak English, Burmese, and Mandarin!**
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
