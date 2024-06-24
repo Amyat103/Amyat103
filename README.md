@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal_new.gif" alt="Typing Animation" width="600"/>
+  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal.gif" alt="Typing Animation" width="600"/>
   <h3 align="center">A Software Engineer studying at Boston University</h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
-  - 🔭 I’m currently working on <a href="https://platecritique.up.railway.app/" style="color:blue;">**Plate Critique**</a>
+  - 🔭 I’m currently working on <a href="https://platecritique.up.railway.app/" style="color:blue;">Plate Critique</a>
   
   - 🌱 I’m currently learning **Fullstack development focusing on backend**
   
   - 📫 How to reach me **amyat@bu.edu**
   
-  - 📄 Know about my experiences [resume link!!! ADD](resume link!!! ADD)
+  - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1n1FWk228rSPTy-0kmURULK9ydCEQ44ES/view)
 
   - ⚡ Fun fact **I speak English, Burmese, and Mandarin!**
   
