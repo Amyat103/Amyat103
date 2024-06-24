@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal_new.gif" alt="Typing Animation" width="500"/>
+    <img src="https://github.com/Amyat103/Amyat103/raw/main/banner.gif" alt="Typing Animation" width="900"/>
+  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal_new.gif" alt="Typing Animation" width="600"/>
   <h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm David</h1>
   <h3 align="center">A Software Engineer studying at Boston University</h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
