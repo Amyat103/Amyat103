@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal.gif" alt="Typing Animation" width="500"/>
+  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal_new.gif" alt="Typing Animation" width="500"/>
   <h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm David</h1>
   <h3 align="center">A Software Engineer studying at Boston University</h3>
 </div>
