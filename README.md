@@ -4,9 +4,10 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
+  
   - 🔭 I’m currently working on <a href="https://platecritique.up.railway.app/" style="color:blue;">Plate Critique</a>
   
-  - 🌱 I’m currently learning **Fullstack development focusing on backend**
+  - 🌱 I’m currently learning **Fullstack development focusing on backend and IOS Development**
   
   - 📫 How to reach me **amyat@bu.edu**
   
