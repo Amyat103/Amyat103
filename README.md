@@ -13,7 +13,7 @@
   
   - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1n1FWk228rSPTy-0kmURULK9ydCEQ44ES/view)
 
-  - ⚡ Fun fact **I speak English, Burmese, and Mandarin!**
+  - ⚡ Fun fact **I love playing tennis and I speak 3 languages!**
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
