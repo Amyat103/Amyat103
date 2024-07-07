@@ -5,16 +5,6 @@
 
 </div>
   
-  - 🔭 I’m currently working on <a href="https://platecritique.up.railway.app/" style="color:blue;">Plate Critique</a>
-  
-  - 🌱 I’m currently learning **Fullstack development focusing on backend and IOS Development**
-  
-  - 📫 How to reach me **amyat@bu.edu**
-  
-  - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1n1FWk228rSPTy-0kmURULK9ydCEQ44ES/view)
-
-  - ⚡ Fun fact **I love playing tennis and I speak 3 languages!**
-  
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/davidmyat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidmyat/" height="30" width="40" /></a>
