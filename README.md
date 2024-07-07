@@ -52,9 +52,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
+  </a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   </a>
