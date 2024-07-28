@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal.gif" alt="Typing Animation" width="600"/>
+<!--   <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal.gif" alt="Typing Animation" width="600"/> -->
   <h3 align="center"></h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
