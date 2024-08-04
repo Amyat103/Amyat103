@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/davidmyat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidmyat/" height="30" width="40" /></a> -->
 <!--   <a href="https://leetcode.com/u/davidmyat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/davidmyat/" height="30" width="40" /></a>
   </p> -->
-  
+<!--
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -51,7 +51,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
-<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -78,8 +78,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   </a>
-</p>
+  </p>
 
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amyat103&layout=compact&theme=radical" width="44%" alt="GitHub Repos Per Language"/>
