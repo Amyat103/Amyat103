@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal.gif" alt="Typing Animation" width="600"/> -->
-  <div class="tenor-gif-embed" data-postid="13155873" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/tennis-snoopy-peanuts-gif-13155873">Tennis Snoopy GIF</a>from <a href="https://tenor.com/search/tennis-gifs">Tennis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://github.com/Amyat103/Amyat103/raw/main/snoppy_tennis.gif" alt="Snoopy playing tennis" width="600"/>
   <h3 align="center"></h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
@@ -85,7 +85,7 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amyat103&layout=compact&theme=radical" width="44%" alt="GitHub Repos Per Language"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amyat103&layout=compact&theme=radical" width="44%" alt="GitHub Repos Per Language"/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Amyat103&show_icons=true&theme=rose&custom_title=GitHub%20Stats%20📊&hide_rank=true" width="38%" alt="GitHub Stats"/> -->
 </p>
 
