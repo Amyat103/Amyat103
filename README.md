@@ -1,5 +1,6 @@
 <div align="center">
 <!--   <img src="https://github.com/Amyat103/Amyat103/raw/main/terminal.gif" alt="Typing Animation" width="600"/> -->
+  <div class="tenor-gif-embed" data-postid="13155873" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/tennis-snoopy-peanuts-gif-13155873">Tennis Snoopy GIF</a>from <a href="https://tenor.com/search/tennis-gifs">Tennis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <h3 align="center"></h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
